@@ -1,7 +1,7 @@
 # Art-of-Bloom
 
 Azure Microsoft Internship Project
-- Project Link: 
+- Project Link: https://nithishkumar23.github.io/Art-of-Bloom/
 - Demo Video Link: 
 
 ## Features and Functionalities:-
