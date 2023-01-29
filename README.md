@@ -31,7 +31,6 @@ The Motive  of the Project is to build an sample prototype E-Commerce Website wi
 ![review](https://user-images.githubusercontent.com/114764945/215307456-60ad2d86-cc71-43ae-a451-63fee7d80b55.png)
 ## Contact
 ![contact](https://user-images.githubusercontent.com/114764945/215307272-f0221b1e-f85e-4fcd-92d4-69b94a2dbb7f.png)
-![social media (2)](https://user-images.githubusercontent.com/114764945/215307273-e5d8e028-2d4e-4da3-aea0-c747976528b0.png)
 ![social media (2)](https://user-images.githubusercontent.com/114764945/215307539-97a02d94-5d3c-4009-b9d0-8ecb86ce1b13.png)
 ## Azure Bot Services
 ![Azure bot](https://user-images.githubusercontent.com/114764945/215307372-814af64c-6437-4825-befe-dc0dbf6365c9.png)
