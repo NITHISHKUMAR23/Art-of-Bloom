@@ -26,10 +26,12 @@ The Motive  of the Project is to build an sample prototype E-Commerce Website wi
 ![Latest products](https://user-images.githubusercontent.com/114764945/215306930-1fbe7861-f9e6-4fbb-9019-3741a95a9368.png)
 ![Latest products (2)](https://user-images.githubusercontent.com/114764945/215306933-792f81b7-86cb-4266-804b-c979225ea202.png)
 ![Latest products (3)](https://user-images.githubusercontent.com/114764945/215306936-bb2ae2bc-815e-4676-a8c6-665df8a22830.png)
+![Latest products (5)](https://user-images.githubusercontent.com/114764945/215307267-dcaf192c-1ac5-4e7e-82b5-5fbdc438b8e4.png)
 ## Reviews
 ![4](https://user-images.githubusercontent.com/119150985/209977626-923b3d3b-4db9-4e3c-8be3-7c84f3ff8c18.jpg)
 ## Contact
-![5](https://user-images.githubusercontent.com/119150985/209977629-d02395d9-9649-47cc-966c-537e6cfe35ab.jpg)
+![contact](https://user-images.githubusercontent.com/114764945/215307272-f0221b1e-f85e-4fcd-92d4-69b94a2dbb7f.png)
+![social media (2)](https://user-images.githubusercontent.com/114764945/215307273-e5d8e028-2d4e-4da3-aea0-c747976528b0.png)
 ![social media (2)](https://user-images.githubusercontent.com/114764945/215306948-6ba76fbe-bd67-42d9-935f-bae39c239bb0.png)
 ## Azure Bot Services
 ![7](https://user-images.githubusercontent.com/119150985/209977635-cab1772c-e334-4bc4-9bcb-79db4dbf3b38.jpg)
