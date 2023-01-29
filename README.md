@@ -28,13 +28,14 @@ The Motive  of the Project is to build an sample prototype E-Commerce Website wi
 ![Latest products (3)](https://user-images.githubusercontent.com/114764945/215306936-bb2ae2bc-815e-4676-a8c6-665df8a22830.png)
 ![Latest products (5)](https://user-images.githubusercontent.com/114764945/215307267-dcaf192c-1ac5-4e7e-82b5-5fbdc438b8e4.png)
 ## Reviews
-![4](https://user-images.githubusercontent.com/119150985/209977626-923b3d3b-4db9-4e3c-8be3-7c84f3ff8c18.jpg)
+![review](https://user-images.githubusercontent.com/114764945/215307364-0e29b8c5-42ea-4a32-ad68-b1f2ca130a84.png)
 ## Contact
 ![contact](https://user-images.githubusercontent.com/114764945/215307272-f0221b1e-f85e-4fcd-92d4-69b94a2dbb7f.png)
 ![social media (2)](https://user-images.githubusercontent.com/114764945/215307273-e5d8e028-2d4e-4da3-aea0-c747976528b0.png)
 ![social media (2)](https://user-images.githubusercontent.com/114764945/215306948-6ba76fbe-bd67-42d9-935f-bae39c239bb0.png)
 ## Azure Bot Services
-![7](https://user-images.githubusercontent.com/119150985/209977635-cab1772c-e334-4bc4-9bcb-79db4dbf3b38.jpg)
+![Azure bot](https://user-images.githubusercontent.com/114764945/215307372-814af64c-6437-4825-befe-dc0dbf6365c9.png)
+![Azure bot (2)](https://user-images.githubusercontent.com/114764945/215307373-951a75e0-7ceb-4108-bff3-6c32492f6942.png)
 ## Tech Stack 
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
