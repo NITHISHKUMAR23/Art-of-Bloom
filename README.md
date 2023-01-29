@@ -28,7 +28,7 @@ The Motive  of the Project is to build an sample prototype E-Commerce Website wi
 ![Latest products (3)](https://user-images.githubusercontent.com/114764945/215306936-bb2ae2bc-815e-4676-a8c6-665df8a22830.png)
 ![Latest products (5)](https://user-images.githubusercontent.com/114764945/215307267-dcaf192c-1ac5-4e7e-82b5-5fbdc438b8e4.png)
 ## Reviews
-![review](https://user-images.githubusercontent.com/114764945/215307364-0e29b8c5-42ea-4a32-ad68-b1f2ca130a84.png)
+![review](https://user-images.githubusercontent.com/114764945/215307456-60ad2d86-cc71-43ae-a451-63fee7d80b55.png)
 ## Contact
 ![contact](https://user-images.githubusercontent.com/114764945/215307272-f0221b1e-f85e-4fcd-92d4-69b94a2dbb7f.png)
 ![social media (2)](https://user-images.githubusercontent.com/114764945/215307273-e5d8e028-2d4e-4da3-aea0-c747976528b0.png)
