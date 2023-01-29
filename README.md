@@ -18,8 +18,9 @@ The Motive  of the Project is to build an sample prototype E-Commerce Website wi
 ## Azure Services Used:-
 - Azure Bot Services
 - Static Web Apps
-![profile](https://user-images.githubusercontent.com/114764945/215305219-12a842d9-624b-4e4c-9e6f-0644a450cfcb.png)
-
+##Home
+![home](https://user-images.githubusercontent.com/114764945/215306375-9cea7c4f-5f8d-45ae-ab2a-7bc77d7efde7.png)
+![about us](https://user-images.githubusercontent.com/114764945/215306395-8f8fe60a-8802-43f1-ac59-e0238f8255a5.png)
 ## About
 ![2](https://user-images.githubusercontent.com/119150985/209977618-f1d6e33e-f635-4ee9-aedd-994f220e6298.jpg)
 ## Product Details
