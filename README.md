@@ -2,7 +2,7 @@
 
 Azure Microsoft Internship Project
 - Project Link: https://nithishkumar23.github.io/Art-of-Bloom/
-- Demo Video Link: 
+- Demo Video Link: https://youtu.be/iNcS7sfTXKE
 
 ## Features and Functionalities:-
 - Interactive and responsive UI.
