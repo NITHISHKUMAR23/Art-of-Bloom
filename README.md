@@ -17,8 +17,8 @@ The Art-of-Bloom wants to build a sample Front End prototype website of Art-of-B
 The Motive  of the Project is to build an sample prototype E-Commerce Website with help of  Azure Bot Services for a business company by using  HTML, CSS, JAVASCRIPT, BOOTSTRAP. The business-to-consumer aspect of product commerce (e-commerce) is the most visible business use of the World Wide Web. The primary goal of sample prototype of  an e-commerce site is to sell Fresh Flowers online by solving problems of customer speedily via Azure Bot Services . This project deals with developing an e-commerce website for Online Product(Flowers) Sale. It provides the user with a catalog of different product available for purchase in the Website . In order to facilitate online purchase a shopping cart is provided to the user. We used Azure Technologies with GitHub to complete this project.
 ## Azure Services Used:-
 - Azure Bot Services
-- Static Web Apps
-##Home
+- Static Web Apps 
+## Home
 ![home](https://user-images.githubusercontent.com/114764945/215306375-9cea7c4f-5f8d-45ae-ab2a-7bc77d7efde7.png)
 ![about us](https://user-images.githubusercontent.com/114764945/215306395-8f8fe60a-8802-43f1-ac59-e0238f8255a5.png)
 ## About
